@@ -54,11 +54,12 @@ _For a complete tutorial on how this was created have a look at my blog: https:/
 
 ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+No dependencies needed, just start testing your code see below
 
 ```sh
 npm install node-promise-serial --save
 npm test
+npm start
 ```
 
 ## Release History
