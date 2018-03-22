@@ -1,9 +1,7 @@
 # node-promise-serial
 > Queue up your Promises to be executed in sequence. Also supports wait-time between Promise executions.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Build Status](https://travis-ci.org/snappyjs/node-promise-serial.svg?branch=master)](https://travis-ci.org/snappyjs/node-promise-serial)
 
 Promise queue to execute promises in a serial fashion with an optional wait-time between the executions.
 
@@ -85,13 +83,3 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]:
-[![node](https://img.shields.io/node/v/passport.svg)](https://www.npmjs.com/package/express)
-
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
